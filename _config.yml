@@ -46,6 +46,3 @@ exclude: [
             exclude.rsync,
             README.markdown
          ]
-
-google_tracking_id:
-1
