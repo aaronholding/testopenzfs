@@ -48,3 +48,5 @@ exclude: [
          ]
 
 google_tracking_id:
+
+theme: jekyll-theme-cayman
